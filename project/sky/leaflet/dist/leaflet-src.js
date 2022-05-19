@@ -1,10 +1,7 @@
 /* @preserve
-
-手动阀手动阀
-
-
  * Leaflet 1.7.1, a JS library for interactive maps. http://leafletjs.com
  * (c) 2010-2019 Vladimir Agafonkin, (c) 2010-2011 CloudMade
+ * 202205191608
  */
 
 (function (global, factory) {
@@ -11090,9 +11087,6 @@
       // for (var key in this._tiles) {
       // 	this._removeTile(key);
       // }
-
-		console.log('我来主广西')
-
       if (!this.options.unlimited) {
         for (var key in this._tiles) {
           this._removeTile(key);
