@@ -1,0 +1,43 @@
+@import "../../../common/scss/globe.scss";
+
+.sm-viewshed-panel {
+  @extend .sm-panel;
+  max-width: 365px;
+}
+
+.sm-viewshed-toggle-btn {
+  @extend .sm-toggle-btn;
+}
+
+.sm-viewshed-toggle-btn-only {
+  @extend .sm-toggle-btn-only;
+}
+
+.sm-viewshed-content {
+  @extend .sm-content;
+}
+
+.sm-viewshed-content-hidden {
+  @extend .sm-content-hidden;
+}
+
+.sm-viewshed-panel-header {
+  @extend .sm-panel-header;
+}
+.span-box2 {
+  font-family: Microsoft YaHei;
+  margin-left: 25px;
+  margin-top: 12px;
+}
+.mleft{
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+

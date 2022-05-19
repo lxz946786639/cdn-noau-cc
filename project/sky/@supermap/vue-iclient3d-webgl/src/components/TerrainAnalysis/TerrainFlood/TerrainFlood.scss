@@ -1,0 +1,51 @@
+@import "../../../common/scss/globe.scss";
+
+.sm-viewshed-panel {
+  @extend .sm-panel;
+  max-width: 365px;
+}
+
+.sm-viewshed-toggle-btn {
+  @extend .sm-toggle-btn;
+}
+
+.sm-viewshed-toggle-btn-only {
+  @extend .sm-toggle-btn-only;
+}
+
+.sm-viewshed-content {
+  @extend .sm-content;
+}
+
+.sm-viewshed-content-hidden {
+  @extend .sm-content-hidden;
+}
+
+.sm-viewshed-panel-header {
+  @extend .sm-panel-header;
+}
+.label2{
+  display: inline;
+  padding: 0.4em 5em .01em 6em;
+  font-size: 110%;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  line-height: 1.1;
+  position: absolute;
+  left: -1px;
+  top: 0;
+  border-radius: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
