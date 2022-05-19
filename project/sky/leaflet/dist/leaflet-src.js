@@ -11086,6 +11086,9 @@
       // for (var key in this._tiles) {
       // 	this._removeTile(key);
       // }
+
+		console.log('我来主广西')
+
       if (!this.options.unlimited) {
         for (var key in this._tiles) {
           this._removeTile(key);
